@@ -1,0 +1,1 @@
+alter table test add column phone VARCHAR(10)

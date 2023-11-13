@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="sourceModelValue" value="Default" />
+    <option name="targetDbValue" value="9b1157e3-dbc6-4936-bc49-b996c79eceb9" />
+    <option name="reverseEngineeringLastDbConnectionId" value="9b1157e3-dbc6-4936-bc49-b996c79eceb9__test-api_public" />
+    <option name="reLastEntityCreationPackage" value="Spring-test/Spring-test/src/main/kotlin/com/example/springtest/entity" />
+  </component>
+</project>
